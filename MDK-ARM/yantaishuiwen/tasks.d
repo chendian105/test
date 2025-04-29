@@ -1,0 +1,17 @@
+yantaishuiwen\tasks.o: ..\Mid\FreeRTOS\source\tasks.c
+yantaishuiwen\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+yantaishuiwen\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+yantaishuiwen\tasks.o: ../Mid/FreeRTOS/include/FreeRTOS.h
+yantaishuiwen\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+yantaishuiwen\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+yantaishuiwen\tasks.o: ../Mid/FreeRTOS/FreeRTOSConfig.h
+yantaishuiwen\tasks.o: ../Mid/FreeRTOS/include/projdefs.h
+yantaishuiwen\tasks.o: ../Mid/FreeRTOS/include/portable.h
+yantaishuiwen\tasks.o: ../Mid/FreeRTOS/include/deprecated_definitions.h
+yantaishuiwen\tasks.o: ../Mid/FreeRTOS/protable/ARM_CM3/portmacro.h
+yantaishuiwen\tasks.o: ../Mid/FreeRTOS/include/mpu_wrappers.h
+yantaishuiwen\tasks.o: ../Mid/FreeRTOS/include/task.h
+yantaishuiwen\tasks.o: ../Mid/FreeRTOS/include/list.h
+yantaishuiwen\tasks.o: ../Mid/FreeRTOS/include/timers.h
+yantaishuiwen\tasks.o: ../Mid/FreeRTOS/include/stack_macros.h
+yantaishuiwen\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
