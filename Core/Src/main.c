@@ -97,6 +97,8 @@ int main(void)
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
 	App_Task_FreeRTOSStart();
+	
+	/*添加一行注释代码，测试github*/
   while (1)
   {
     /* USER CODE END WHILE */
